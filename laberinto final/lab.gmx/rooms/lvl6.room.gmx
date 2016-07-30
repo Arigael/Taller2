@@ -200,6 +200,12 @@
     <instance objName="objMonsRan" x="32" y="416" name="inst_5E1E8D75" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="objMonsRan" x="448" y="288" name="inst_BF437685" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="objScore" x="32" y="480" name="inst_90C1C9FF" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="objKeySilv" x="256" y="32" name="inst_C2E24AAB" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="objPuertaSilv" x="224" y="224" name="inst_B4387E16" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="objKeyRuby" x="32" y="288" name="inst_989771B7" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="objPuertaRuby" x="320" y="416" name="inst_31D60CF0" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="objKeyZaph" x="576" y="288" name="inst_EF73BBC4" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="objPuertaZaph" x="384" y="224" name="inst_4B496798" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
   </instances>
   <tiles/>
   <PhysicsWorld>0</PhysicsWorld>

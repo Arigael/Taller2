@@ -81,8 +81,6 @@
     <object>objects\objYoudied</object>
   </objects>
   <rooms name="rooms">
-    <room>rooms\lvl9</room>
-    <room>rooms\lvl10</room>
     <room>rooms\Inicio</room>
     <room>rooms\lvl1</room>
     <room>rooms\lvl2</room>
@@ -92,6 +90,8 @@
     <room>rooms\lvl6</room>
     <room>rooms\lvl7</room>
     <room>rooms\lvl8</room>
+    <room>rooms\lvl9</room>
+    <room>rooms\lvl10</room>
     <room>rooms\died</room>
     <room>rooms\END</room>
   </rooms>
